@@ -1,4 +1,4 @@
 package top.yqzhu.week1.controller;
 
-public class toolcontroller {
+public class usercontroller {
 }
