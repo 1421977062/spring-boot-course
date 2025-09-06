@@ -1,4 +1,4 @@
 package top.yqzhu.week1.controller;
 
-public class yjhController {
+public class sdlController {
 }
